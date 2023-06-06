@@ -3,3 +3,5 @@
 Deri Lazuardi Ramadhan, Muhammad Almal Nafy, Priscilla Nur Elia Putri Gulo
 
 Sebelum mencoba aplikasi CataKu, disarankan untuk melakukan export database "notes-1.sql" ke localhost/phpmyadmin
+
+Terima kasih dan selamat mencoba
