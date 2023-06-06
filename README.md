@@ -1,1 +1,3 @@
-# rpl-p1-kel1
+# Tugas Akhir RPL P1 Kelompok 1
+
+Deri Lazuardi Ramadhan, Muhammad Almal Nafy, Priscilla Nur Elia Putri Gulo
