@@ -1,0 +1,76 @@
+/* Google Font Link */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Ubuntu:wght@400;500;700&display=swap');
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css");
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.form {
+    border: 1.5px solid #ced4da;
+    padding: 1rem;
+    border-radius: 8px;
+}
+
+.text {
+    text-align: center;
+    padding: 10px 20px;
+    box-shadow: -5px 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.container {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    padding-bottom: 60px;
+    margin-top: 20px;
+}
+
+.container .content {
+    text-align: center;
+}
+
+.container .content h3 {
+    font-size: 30px;
+    color: #333;
+}
+
+.container .content h3 span {
+    background: #6daae3;
+    color: #fff;
+    border-radius: 5px;
+    padding: 0 15px;
+}
+
+.container .content h2 {
+    font-size: 50px;
+    color: #333;
+}
+
+.container .content h2 span {
+    color: #4c99cd;
+}
+
+.container .content p {
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+
+.container .content .btn {
+    display: inline-block;
+    padding: 10px 30px;
+    font-size: 20px;
+    background: #4c99cd;
+    color: #fff;
+    margin: 0 5px;
+}
+
+.container .content .btn:hover {
+    background: #fcfcfc;
+    color: #4c99cd;
+}
